@@ -3,4 +3,7 @@ h1{
 }
 body{
     background-color: aquamarine;
+    padding:20px;
+    width:400px;
+    margin:auto;
 }
